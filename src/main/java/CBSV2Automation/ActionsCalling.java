@@ -223,8 +223,7 @@ public class ActionsCalling extends Base {
 								j = 1;
 								System.out.println("Webpage get Refresh..");
 								Remark.setCellValue("...");
-								out1.write(
-										"Webpage get Refresh due to more than 5 elements are not founds & execution get continue.");
+								out1.write("Webpage get Refresh due to more than 5 elements are not founds & execution get continue.");
 								break;
 							}
 						}
