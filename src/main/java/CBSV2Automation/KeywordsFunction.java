@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class KeywordsFunction extends Base {
 
+	// If Action is Specify as a TAB and we want to give ENTER for Perticular field then use it 
 	public static void ENTERACTION(XSSFCell nextInputCell, Keys actionKey) {
         try {
             if (nextInputCell.getStringCellValue().equalsIgnoreCase("ENTER")) {
