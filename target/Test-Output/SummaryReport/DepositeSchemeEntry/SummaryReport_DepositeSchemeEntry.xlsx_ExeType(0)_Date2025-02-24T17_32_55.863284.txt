@@ -1,0 +1,37 @@
+Test cases executing for : DepositeSchemeEntry.xlsx
+Test case sheets index : 0
+Application User ID : PBS
+Execution Start Date & Time : 24-02-2025 17:32:55
+Test Cases Executed By : Pritika Somase
+Test Run Type: RunAllCases
+----------------------------------------------------------------------------------------------------------------------
+ Summary Report of Add sheet
+----------------------------------------------------------------------------------------------------------------------
+Test Cases Executing from : TCID1 - TCID10
+ Add Sheet Cases       =    55  
+ Pass Test Cases                            =     10 
+ Total Fail Test Cases                      =    0
+ Actual Fail Test Cases                     =    0
+ Tool Level Fail Cases                      =    0
+ Skip Test Cases                            =    45
+ Add Test cases executed.
+Test cases executed.( Time : 2 Minutes)
+
+*******************************************************************************
+
+------------------------------------------------------------------------------------
+                                        Final Summary Report of All Run test Case sheets 
+------------------------------------------------------------------------------------
+
+ Total Cases from all sheets  =  55   
+ Pass Test Cases              =   10   
+ Total Fail Test Cases        =   0  
+ Actual Fail Test Cases       =   0  
+ Tool Level Fail Cases        =   0  
+ Skip Test Cases              =   45   
+
+------------------------------------------------------------------------------------
+Execution Start Time : 24-02-2025 17:32:55
+Execution End Time : 24-02-2025 17:35:38
+------------------------------------------------------------------------------------
+Total Time Required To Run All Test Cases : 2 Minutes 

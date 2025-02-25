@@ -1,0 +1,38 @@
+Test cases executing for : StaffMaster.xlsx
+Test case sheets index : 0
+Application User ID : PBS
+Execution Start Date & Time : 24-02-2025 15:20:12
+Test Cases Executed By : Pritika Somase
+Test Run Status: RunAllCases
+----------------------------------------------------------------------------------------------------------------------
+ Summary Report of Sheet1 sheet
+----------------------------------------------------------------------------------------------------------------------
+
+ Test Cases Executing from : TCID1 - TCID53
+ Sheet1 Sheet Cases       =    53  
+ Pass Test Cases                            =     41 
+ Total Fail Test Cases                      =    12
+ Actual Fail Test Cases                     =    12
+ Tool Level Fail Cases                      =    0
+ Skip Test Cases                            =    0
+ Sheet1 Test cases executed.
+Test cases executed.( Time : 11 Minutes)
+
+*******************************************************************************
+
+------------------------------------------------------------------------------------
+                                        Final Summary Report of All Run test Case sheets 
+------------------------------------------------------------------------------------
+
+ Total Cases from all sheets  =  53   
+ Pass Test Cases              =   41   
+ Total Fail Test Cases        =   12  
+ Actual Fail Test Cases       =   12  
+ Tool Level Fail Cases        =   0  
+ Skip Test Cases              =   0   
+
+------------------------------------------------------------------------------------
+Execution Start Time : 24-02-2025 15:20:12
+Execution End Time : 24-02-2025 15:32:15
+------------------------------------------------------------------------------------
+Total Time Required To Run All Test Cases : 12 Minutes 

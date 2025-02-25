@@ -1,0 +1,38 @@
+Test cases executing for : CityMaster.xlsx
+Test case sheets index : 2
+Application User ID : PBS
+Execution Start Date & Time : 24-02-2025 16:52:04
+Test Cases Executed By : Pritika Somase
+Test Run Status: RunAllCases
+----------------------------------------------------------------------------------------------------------------------
+ Summary Report of Search,Delete sheet
+----------------------------------------------------------------------------------------------------------------------
+
+ Test Cases Executing from : TCID1 - TCID3
+ Search,Delete Sheet Cases       =    3  
+ Pass Test Cases                            =     0 
+ Total Fail Test Cases                      =    2
+ Actual Fail Test Cases                     =    1
+ Tool Level Fail Cases                      =    1
+ Skip Test Cases                            =    1
+ Search,Delete Test cases executed.
+Test cases executed.( Time : 1 Minutes)
+
+*******************************************************************************
+
+------------------------------------------------------------------------------------
+                                        Final Summary Report of All Run test Case sheets 
+------------------------------------------------------------------------------------
+
+ Total Cases from all sheets  =  3   
+ Pass Test Cases              =   0   
+ Total Fail Test Cases        =   2  
+ Actual Fail Test Cases       =   1  
+ Tool Level Fail Cases        =   1  
+ Skip Test Cases              =   1   
+
+------------------------------------------------------------------------------------
+Execution Start Time : 24-02-2025 16:52:04
+Execution End Time : 24-02-2025 16:54:09
+------------------------------------------------------------------------------------
+Total Time Required To Run All Test Cases : 2 Minutes 

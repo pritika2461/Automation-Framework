@@ -1,0 +1,374 @@
+*******************************************************************************
+                                                        Automation Testing Report 
+*******************************************************************************
+
+Test cases executing for : CityMaster.xlsx
+Test case sheets index : 0,1,2
+Application User ID : PBS
+Execution Start Date & Time : 24-02-2025 16:55:31
+Test Cases Executed By : Pritika Somase
+Test Run Status: RunAllCases
+__________________________________________________________________________________
+                                      Console Report of Add City sheet
+__________________________________________________________________________________
+ Add City has 19 Test Cases 
+
+ Test Cases Executing from : TCID1 - TCID19
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID1
+ * Objective : To Verify the City Name Field By keeping it empty. And Click on TAB
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID2
+ * Objective : To Verify the City Name Field By Entering special characters in it and click on TAB.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID3
+ * Objective : To verify the City Name Field By entering a Character in it and Click on TAB.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID4
+ * Objective : To Verify the City Name Field By keeping it empty Press Enter.
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID5
+ * Objective : To Verify the City Name Field By Entering special characters in it Press Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID6
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID7
+ * Objective : To verify the City Name Field By entering a number in it And Press TAB.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID8
+ * Objective : To verify the City Name Field By entering a Number in it And Press Enter.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID9
+ * Objective : To verify the City Name Field By entering a valid City Name in it And Click on Save.
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID10
+ * Objective : To Verify the City Name Field By keeping it empty. And Click on TAB
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID11
+ * Objective : To Verify the City Name Field By Entering special characters in it and click on TAB.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID12
+ * Objective : To verify the City Name Field By entering a Character in it and Click on TAB.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID13
+ * Objective : To Verify the City Name Field By keeping it empty Press Enter.
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID14
+ * Objective : To Verify the City Name Field By Entering special characters in it Press Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID15
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+1) Element Not Found For ID/Xpath = BtnSave_195
+2) Element Not Found For ID/Xpath = BtnCancel_195
+3) Element Not Found For ID/Xpath = BtnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID15
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+1) Element Not Found For ID/Xpath = BtnSave_195
+2) Element Not Found For ID/Xpath = BtnCancel_195
+3) Element Not Found For ID/Xpath = BtnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID15
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+1) Element Not Found For ID/Xpath = BtnSave_195
+2) Element Not Found For ID/Xpath = BtnCancel_195
+3) Element Not Found For ID/Xpath = BtnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID16
+ * Objective : To verify the City Name Field By entering a number in it And Press TAB.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID17
+ * Objective : To verify the City Name Field By entering a Number in it And Press Enter.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID18
+ * Objective : To verify the City Name Field By entering a valid City Name in it And Click on Save.
+Toast Msg : RECORD ALREADY EXSIST !!  
+ Test Status : Fail
+__________________________________________________________________________________
+
+Please Maintain Expected Result in Proper Format
+__________________________________________________________________________________
+                             Summary Report of Add City Sheet 
+__________________________________________________________________________________
+ Add City Sheet Cases       =    19  
+ Pass Test Cases                                =     16 
+ Total Fail Test Cases                       =    3
+ Actual Fail Test Cases                     =    2
+ Tool Level Fail Cases                      =    1
+ Skip Test Cases                                 =    0
+ Add City Test cases executed.
+Test cases executed.( Time : 4 Minutes)
+
+*******************************************************************************
+
+__________________________________________________________________________________
+                                      Console Report of Edit City sheet
+__________________________________________________________________________________
+ Edit City has 19 Test Cases 
+
+ Test Cases Executing from : TCID1 - TCID19
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID1
+ * Objective : To Verify the City Name Field By keeping it empty. And Click on TAB
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID2
+ * Objective : To Verify the City Name Field By Entering special characters in it and click on TAB.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID3
+ * Objective : To verify the City Name Field By entering a Character in it and Click on TAB.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID4
+ * Objective : To Verify the City Name Field By keeping it empty Press Enter.
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID5
+ * Objective : To Verify the City Name Field By Entering special characters in it Press Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID6
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID7
+ * Objective : To verify the City Name Field By entering a number in it And Press TAB.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID8
+ * Objective : To verify the City Name Field By entering a Number in it And Press Enter.
+Focus Shifted to TXTMCITY_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID9
+ * Objective : To verify the City Name Field By entering a valid City Name in it And Click on Save.
+Toast Msg : RECORD ALREADY EXSIST !!  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID10
+ * Objective : To Verify the City Name Field By keeping it empty. And Click on TAB
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID11
+ * Objective : To Verify the City Name Field By Entering special characters in it and click on TAB.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID12
+ * Objective : To verify the City Name Field By entering a Character in it and Click on TAB.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID13
+ * Objective : To Verify the City Name Field By keeping it empty Press Enter.
+Toast Msg : Enter Valid Input  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID14
+ * Objective : To Verify the City Name Field By Entering special characters in it Press Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID15
+ * Objective : To verify the City Name Field By entering a Character in it And Press Enter.
+Toast Msg: RECORD ALREADY EXSIST !!
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID16
+ * Objective : To verify the City Name Field By entering a number in it And Press TAB.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID17
+ * Objective : To verify the City Name Field By entering a Number in it And Press Enter.
+Focus Shifted to btnSave_195
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID18
+ * Objective : To verify the City Name Field By entering a valid City Name in it And Click on Save.
+Toast Msg : RECORD ALREADY EXSIST !!  
+ Test Status : Fail
+__________________________________________________________________________________
+
+Please Maintain Expected Result in Proper Format
+__________________________________________________________________________________
+                             Summary Report of Edit City Sheet 
+__________________________________________________________________________________
+ Edit City Sheet Cases       =    19  
+ Pass Test Cases                                =     15 
+ Total Fail Test Cases                       =    4
+ Actual Fail Test Cases                     =    4
+ Tool Level Fail Cases                      =    0
+ Skip Test Cases                                 =    0
+ Edit City Test cases executed.
+Test cases executed.( Time : 3 Minutes)
+
+*******************************************************************************
+
+__________________________________________________________________________________
+                                      Console Report of Search,Delete sheet
+__________________________________________________________________________________
+ Search,Delete has 3 Test Cases 
+
+ Test Cases Executing from : TCID1 - TCID3
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID1
+ * Objective : To verify City Code Field by entering Valid city name
+1) Element Not Found For ID/Xpath = btnDel_195
+2) Element Not Found For ID/Xpath = btnCancel_195
+3) Element Not Found For ID/Xpath = btnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID1
+ * Objective : To verify City Code Field by entering Valid city name
+1) Element Not Found For ID/Xpath = btnDel_195
+2) Element Not Found For ID/Xpath = btnCancel_195
+3) Element Not Found For ID/Xpath = btnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID1
+ * Objective : To verify City Code Field by entering Valid city name
+1) Element Not Found For ID/Xpath = btnDel_195
+2) Element Not Found For ID/Xpath = btnCancel_195
+3) Element Not Found For ID/Xpath = btnExit_195
+
+ Test Status : Fail
+Tool level test case gets fail due to element not found..
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID2
+ * Objective : To verify record is deleted successfully.
+Toast Msg : Enter Valid Input  
+ Test Status : Fail
+
+__________________________________________________________________________________
+                             Summary Report of Search,Delete Sheet 
+__________________________________________________________________________________
+ Search,Delete Sheet Cases       =    3  
+ Pass Test Cases                                =     0 
+ Total Fail Test Cases                       =    2
+ Actual Fail Test Cases                     =    1
+ Tool Level Fail Cases                      =    1
+ Skip Test Cases                                 =    1
+ Search,Delete Test cases executed.
+Test cases executed.( Time : 1 Minutes)
+
+*******************************************************************************
+
+__________________________________________________________________________________
+               Final Summary Report of All Run test Case sheets 
+__________________________________________________________________________________
+--------------------------------------------------------------------------
+| Total  Test Cases                                                  |       41  |
+--------------------------------------------------------------------------
+| Total Pass Test Cases                                            |       31    |
+--------------------------------------------------------------------------
+| Total Fail Test Cases                                             |       9   |
+--------------------------------------------------------------------------
+| Actual Fail Test Cases                                          |       7   |
+---------------------------------------------------------------------------
+| Tool Level Fail Cases                                           |       2  |
+---------------------------------------------------------------------------
+| Skip Test Cases                                                    |       1  |
+---------------------------------------------------------------------------
+__________________________________________________________________________________
+Execution Start Time : 24-02-2025 16:55:31
+Execution End Time : 24-02-2025 17:06:02
+Total Time Required To Run All Test Cases : 10 Minutes 
+__________________________________________________________________________________

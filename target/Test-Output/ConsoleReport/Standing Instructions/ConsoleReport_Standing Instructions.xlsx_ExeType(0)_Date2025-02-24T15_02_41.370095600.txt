@@ -1,0 +1,636 @@
+*******************************************************************************
+                                                        Automation Testing Report 
+*******************************************************************************
+
+Test cases executing for : Standing Instructions.xlsx
+Test case sheets index : 0
+Application User ID : PBS
+Execution Start Date & Time : 24-02-2025 15:02:41
+Test Cases Executed By : Pritika Somase
+Test Run Status: RunAllCases
+__________________________________________________________________________________
+                                      Console Report of Standing Instructions sheet
+__________________________________________________________________________________
+ Standing Instructions has 98 Test Cases 
+
+ Test Cases Executing from : TCID1 - TCID98
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID01
+ * Objective : Enter From Account Code is   blank & Enter.
+Toast Msg : Please Select From Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID02
+ * Objective : Enter Invalid 1 character in from Account Code & Enter.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID03
+ * Objective : Enter Valid 1 character in from Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID04
+ * Objective : Enter Valid 2 character in from Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID05
+ * Objective : Enter Valid 3 character in from Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID06
+ * Objective : Enter Special Character (@@) & Enter.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID07
+ * Objective : Enter Special Character (##)& Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID08
+ * Objective : Enter 6 characters & Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID09
+ * Objective : Enter Invalid GL Number & Enter
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID10
+ * Objective : Enter Valid GL Number & Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID11
+ * Objective : Blank From Account Code & Tab
+Toast Msg : Please Select From Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID12
+ * Objective : Enter invalid 1 character in from Account Code & TAB.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID13
+ * Objective : Enter To Account Code is blank & Enter.
+Toast Msg : Please Select To Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID14
+ * Objective : Enter Invalid 1 character in to Account Code & Enter.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID15
+ * Objective : Enter Valid 1 character in to Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID16
+ * Objective : Enter Valid 2 character in to Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID17
+ * Objective : Enter Valid 3 character in to Account Code & Enter.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID18
+ * Objective : Enter Special Character (@@) & Enter.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID19
+ * Objective : Enter Special Character (##)& Enter.
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID20
+ * Objective : Enter Invalid GL Number & Enter
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID21
+ * Objective : Enter Valid GL Number & Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID22
+ * Objective : Blank to Account Code & Tab
+Toast Msg : Please Select To Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID23
+ * Objective : Enter invalid 1 GL in to Account Code & TAB.
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID24
+ * Objective : Enter Valid 1 GL in to Account Code & TAB.
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID25
+ * Objective : From Account is blank and Enter
+Toast Msg : Please Enter From A/c No.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID26
+ * Objective : Enter Single character and press Enter Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID27
+ * Objective : Enter Two character and press Enter Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID28
+ * Objective : Enter Four character and press Enter Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID29
+ * Objective : Enter Five character and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID30
+ * Objective : Enter Valid Account Number 1 digit and Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID31
+ * Objective : Enter Valid Account Number 2 digit and Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID32
+ * Objective : Enter Valid Account Number  and Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID33
+ * Objective : Enter Invalid From A/c number and press Enter Key 
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID34
+ * Objective : Enter 1 Special characters  in from account 
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID35
+ * Objective : Enter51 Special characters  in from account 
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID36
+ * Objective : Enter Single character and press Tab Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID37
+ * Objective : Enter Two character and press Tab Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID38
+ * Objective : Enter Four character and press Tab Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID39
+ * Objective : Enter Five character and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID40
+ * Objective : Enter Invalid From A/c number and press Tab Key 
+Toast Msg : No data Found..!  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID41
+ * Objective : Tab Special characters  @@ in from account 
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID42
+ * Objective : Enter Five Special  character and press Tab Key
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID43
+ * Objective : Enter Special characters in from account and TAB
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID44
+ * Objective : Enter Valid Account Number 1 digit and TAB
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID45
+ * Objective : Enter Valid Account Number 2 digit and TAB
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID46
+ * Objective : Enter Valid Account Number  and TAB
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID47
+ * Objective : Enter Single character and press Enter Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID48
+ * Objective : Enter Two character and press Enter Key
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID49
+ * Objective : Enter To A/c number five character and press Enter key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID50
+ * Objective : Enter To A/c number numeric value as zero and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+Browser Close, Reopen & Continue Execution...  
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID51
+ * Objective : Enter To A/c number numeric value and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID52
+ * Objective : Enter From date in character and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID53
+ * Objective : Enter From date less than software current date and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID54
+ * Objective : Enter Invalid from date and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID55
+ * Objective : Enter Invalid date format and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID56
+ * Objective : Enter From date in character and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID57
+ * Objective : Enter Character and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID58
+ * Objective : Enter Special Character and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID59
+ * Objective : Enter blank Inst Amt field and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID60
+ * Objective : Enter Ins Amt in fraction and press enter key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID61
+ * Objective : Enter Character and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID62
+ * Objective : Enter Special Character and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID63
+ * Objective : Enter blank Trf Day and press on Enter key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID64
+ * Objective : Enter Trf Day less that software current date and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID65
+ * Objective : Enter Trf Day greater that software current date and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID66
+ * Objective : Enter Trf Day Equal to software date and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID67
+ * Objective : Enter blank Trf Day and press on Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID68
+ * Objective : Enter Trf Day less that software current date and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID69
+ * Objective : Enter Trf Day greater that software current date and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID70
+ * Objective : Enter Character and press Enter Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID71
+ * Objective : Enter Character and press Tab Key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID72
+ * Objective : Enter Frequency in Character and press Enter key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID73
+ * Objective : Enter Frequency in number and press Enter
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID74
+ * Objective : Enter Frequency in Character and press Tab key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID75
+ * Objective : Enter Frequency in number and press Tab key
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID76
+ * Objective : select Frequency unit as Month
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID77
+ * Objective : select Frequency unit as Day
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID78
+ * Objective : select Frequency unit as Year
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID79
+ * Objective : Click on Save button
+Toast Msg : Please Select From Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID80
+ * Objective : Enter Valid GL Two Characters press Enter Key and click on Save button
+Toast Msg : Please Select To Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID81
+ * Objective : Enter Valid GL Two Characters press Tab Key and click on Save button
+Toast Msg : Please Select To Gl..  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID82
+ * Objective : Enter From A/c code valid GL and Enter To A/c code GL and click on Save button
+Toast Msg : Please Enter From A/c No.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID83
+ * Objective : Enter Two Character and click on Save button
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID84
+ * Objective : Enter From A/c number and To A/c number and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID85
+ * Objective : Enter Two Character and click on Save button
+Toast Msg : Enter Atleast 5 Characters.  
+ Test Status : Pass
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID86
+ * Objective : Enter To A/c number five Character and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID87
+ * Objective : Enter From date in character and click on Save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID88
+ * Objective : Enter Invalid From date and click on Save
+Toast Msg : Invalid Input.. (Contains Special Characters..)  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID89
+ * Objective : Enter Special character and click on Save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID90
+ * Objective : Enter blank Trf Day and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID91
+ * Objective : Enter Trf Day less that software current date and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID92
+ * Objective : Enter Trf Day greater that software current date and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID93
+ * Objective : Enter Trf Day Equal to software date and click on Save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID94
+ * Objective : Enter Character and click on Save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID95
+ * Objective : Enter  valid numeric value and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID96
+ * Objective : Enter Frequency in Character and click on save button
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+__________________________________________________________________________________
+
+ # Executing Test Case With ID : TCID97
+ * Objective : Verify if standing instruction entry is getting saved  successfully
+Toast Msg : PLEASE CONTACT SOFTWARE SUPPORT TEAM  
+ Test Status : Fail
+
+__________________________________________________________________________________
+                             Summary Report of Standing Instructions Sheet 
+__________________________________________________________________________________
+ Standing Instructions Sheet Cases       =    98  
+ Pass Test Cases                                =     36 
+ Total Fail Test Cases                       =    61
+ Actual Fail Test Cases                     =    61
+ Tool Level Fail Cases                      =    0
+ Skip Test Cases                                 =    0
+ Standing Instructions Test cases executed.
+Test cases executed.( Time : 13 Minutes)
+
+*******************************************************************************
+
+__________________________________________________________________________________
+               Final Summary Report of All Run test Case sheets 
+__________________________________________________________________________________
+--------------------------------------------------------------------------
+| Total  Test Cases                                                  |       98  |
+--------------------------------------------------------------------------
+| Total Pass Test Cases                                            |       36    |
+--------------------------------------------------------------------------
+| Total Fail Test Cases                                             |       61   |
+--------------------------------------------------------------------------
+| Actual Fail Test Cases                                          |       61   |
+---------------------------------------------------------------------------
+| Tool Level Fail Cases                                           |       0  |
+---------------------------------------------------------------------------
+| Skip Test Cases                                                    |       1  |
+---------------------------------------------------------------------------
+__________________________________________________________________________________
+Execution Start Time : 24-02-2025 15:02:41
+Execution End Time : 24-02-2025 15:16:53
+Total Time Required To Run All Test Cases : 14 Minutes 
+__________________________________________________________________________________

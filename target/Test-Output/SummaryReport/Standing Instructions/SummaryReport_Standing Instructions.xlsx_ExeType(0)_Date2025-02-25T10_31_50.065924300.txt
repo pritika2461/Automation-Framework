@@ -1,0 +1,38 @@
+Test cases executing for : Standing Instructions.xlsx
+Test case sheets index : 0
+Application User ID : PBS
+Execution Start Date & Time : 25-02-2025 10:31:50
+Test Cases Executed By : Pritika Somase
+Test Run Type: RunAllCases
+----------------------------------------------------------------------------------------------------------------------
+ Summary Report of Standing Instructions sheet
+----------------------------------------------------------------------------------------------------------------------
+
+ Test Cases Executing from : TCID1 - TCID98
+ Standing Instructions Sheet Cases       =    98   
+ Pass Test Cases                            =     36   
+ Total Fail Test Cases                      =    61
+ Actual Fail Test Cases                     =    61
+ Tool Level Fail Cases                      =    0
+ Skip Test Cases                            =    1
+ Standing Instructions Test cases executed.
+Test cases executed.( Time : 14 Minutes)
+
+*******************************************************************************
+
+------------------------------------------------------------------------------------
+                                        Final Summary Report of All Run test Case sheets 
+------------------------------------------------------------------------------------
+
+ Total Cases from all sheets  =  98   
+ Pass Test Cases              =   36   
+ Total Fail Test Cases        =   61  
+ Actual Fail Test Cases       =   61  
+ Tool Level Fail Cases        =   0  
+ Skip Test Cases              =   1   
+
+------------------------------------------------------------------------------------
+Execution Start Time : 25-02-2025 10:31:50
+Execution End Time : 25-02-2025 10:46:27
+------------------------------------------------------------------------------------
+Total Time Required To Run All Test Cases : 14 Minutes 
